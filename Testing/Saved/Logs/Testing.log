@@ -6203,3 +6203,139 @@ Recommended: 516.25
 [2022.10.19-15.08.54:418][ 69]LogMeshUtilities: Finished distance field build in 1.7s - 105x105x105 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 55% occupied, 1920 triangles, ShadowTestMesh
 [2022.10.19-15.08.58:074][379]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x119 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 69% occupied, 21258 triangles, SM_Room_01
 [2022.10.19-15.09.00:440][576]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, SM_SkySphere
+[2022.10.19-15.15.42:846][417]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.10.19-15.15.42:846][417]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.10.19-15.15.42:853][417]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567
+[2022.10.19-15.15.42:857][417]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567
+[2022.10.19-15.15.42:909][417]AssetCheck: New page: Asset Save: BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567
+[2022.10.19-15.15.42:909][417]LogContentValidation: Display: Validating BlockingVolume /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567
+[2022.10.19-15.15.42:960][420]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments.
+[2022.10.19-15.15.42:977][422]LogConcert: Display: Synced activity '619' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 added package /Game/__ExternalActors__/1/A/67/9FGT5E5F1Q6A8C8NUW5FGI.
+[2022.10.19-15.15.43:058][431]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 7 segments.
+[2022.10.19-15.15.43:100][435]LogConcert: Display: Synced activity '620' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 created BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567 in /Game/1.
+[2022.10.19-15.15.47:385][881]Cmd: TRANSACTION UNDO
+[2022.10.19-15.15.47:385][881]LogEditorTransaction: Undo Create Actor
+[2022.10.19-15.15.47:703][884]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 7 segments.
+[2022.10.19-15.15.47:710][885]LogConcert: Display: Synced activity '621' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 deleted BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567 in /Game/1.
+[2022.10.19-15.15.47:812][886]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.15.59:516][983]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraBlockingVolume
+[2022.10.19-15.15.59:516][983]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraBlockingVolume
+[2022.10.19-15.15.59:523][983]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraBlockingVolume as actor: CameraBlockingVolume /Game/1.1:PersistentLevel.CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568
+[2022.10.19-15.15.59:524][983]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraBlockingVolume as actor: CameraBlockingVolume /Game/1.1:PersistentLevel.CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568
+[2022.10.19-15.15.59:568][983]AssetCheck: New page: Asset Save: CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568
+[2022.10.19-15.15.59:568][983]LogContentValidation: Display: Validating CameraBlockingVolume /Game/1.1:PersistentLevel.CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568
+[2022.10.19-15.15.59:629][986]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments.
+[2022.10.19-15.15.59:645][988]LogConcert: Display: Synced activity '622' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 added package /Game/__ExternalActors__/1/1/IT/8E4DHUXAPX9ZJM9A55S89L.
+[2022.10.19-15.15.59:727][997]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 7 segments.
+[2022.10.19-15.15.59:752][  0]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.15.59:769][  1]LogConcert: Display: Synced activity '623' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 created CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568 in /Game/1.
+[2022.10.19-15.16.00:757][109]Cmd: TRANSACTION UNDO
+[2022.10.19-15.16.00:757][109]LogEditorTransaction: Undo Create Actor
+[2022.10.19-15.16.01:081][113]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 7 segments.
+[2022.10.19-15.16.01:154][115]LogConcert: Display: Synced activity '624' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 deleted CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568 in /Game/1.
+[2022.10.19-15.16.15:555][637]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.19-15.16.54:023][321]Cmd: DELETE
+[2022.10.19-15.16.54:023][321]Cmd: ACTOR DELETE
+[2022.10.19-15.16.54:024][321]LogEditorActor: Cannot delete actor Landscape /Game/1.1:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703: Landscape can't be deleted because it still has 64 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2022.10.19-15.16.54:049][321]LogWorldPartition: Warning: Actor /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567 is unreachable without properly detaching object /Game/__ExternalActors__/1/A/67/9FGT5E5F1Q6A8C8NUW5FGI.PackageMetaData in its package
+[2022.10.19-15.16.54:049][321]LogWorldPartition: Warning: Actor /Game/1.1:PersistentLevel.CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568 is unreachable without properly detaching object /Game/__ExternalActors__/1/1/IT/8E4DHUXAPX9ZJM9A55S89L.PackageMetaData in its package
+[2022.10.19-15.16.54:071][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.10.19-15.16.54:073][321]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2022.10.19-15.16.54:097][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.19-15.17.19:385][908]Cmd: TRANSACTION UNDO
+[2022.10.19-15.17.19:385][908]LogEditorTransaction: Undo Show Only Selected Actors
+[2022.10.19-15.17.19:385][908]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1431458220.BrushComponent0)
+[2022.10.19-15.17.19:385][908]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1383405218.BrushComponent0)
+[2022.10.19-15.17.19:385][908]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1379530217.BrushComponent0)
+[2022.10.19-15.17.19:385][908]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1303381216.BrushComponent0)
+[2022.10.19-15.17.40:872][ 24]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.10.19-15.17.40:872][ 24]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.10.19-15.17.40:878][ 24]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569
+[2022.10.19-15.17.40:879][ 24]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569
+[2022.10.19-15.17.40:924][ 24]AssetCheck: New page: Asset Save: BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569
+[2022.10.19-15.17.40:924][ 24]LogContentValidation: Display: Validating BlockingVolume /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569
+[2022.10.19-15.17.40:983][ 26]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments.
+[2022.10.19-15.17.41:006][ 29]LogConcert: Display: Synced activity '625' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 added package /Game/__ExternalActors__/1/1/NE/UZQW6PK0RJKV26O85UZIWX.
+[2022.10.19-15.17.41:120][ 41]LogConcert: Display: Synced activity '626' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 created BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569 in /Game/1.
+[2022.10.19-15.17.42:862][232]LogConcert: Display: Synced activity '627' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.43:405][288]LogConcert: Display: Synced activity '628' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.43:406][288]LogConcert: Display: Synced activity '629' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.43:512][299]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.17.44:054][359]LogConcert: Display: Synced activity '630' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.44:899][448]LogConcert: Display: Synced activity '631' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.44:907][449]LogConcert: Display: Synced activity '632' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.45:006][459]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.17.45:010][460]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.17.45:717][538]LogConcert: Display: Synced activity '633' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.46:101][576]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.17.46:110][577]LogConcert: Display: Synced activity '634' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.46:111][577]LogConcert: Display: Synced activity '635' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.49:050][889]LogConcert: Display: Synced activity '636' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.49:672][954]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.17.49:698][957]LogConcert: Display: Synced activity '637' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.49:698][957]LogConcert: Display: Synced activity '638' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.51:531][156]LogConcert: Display: Synced activity '639' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.51:647][169]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.17.53:551][374]LogConcert: Display: Synced activity '640' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.53:551][374]LogConcert: Display: Synced activity '641' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.57:250][743]LogConcert: Display: Synced activity '642' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.58:229][847]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.17.58:239][848]LogConcert: Display: Synced activity '643' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.58:239][848]LogConcert: Display: Synced activity '644' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.17.58:338][858]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.00:828][128]LogConcert: Display: Synced activity '645' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.01:641][213]LogConcert: Display: Synced activity '646' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.01:641][213]LogConcert: Display: Synced activity '647' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.03:315][396]LogConcert: Display: Synced activity '648' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.03:421][408]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.03:525][419]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.03:632][431]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.03:742][442]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.03:847][454]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.03:947][464]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.04:051][476]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.04:159][488]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.04:255][498]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.04:371][511]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.04:475][522]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.04:574][533]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.05:098][590]LogConcert: Display: Synced activity '649' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.05:098][590]LogConcert: Display: Synced activity '650' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.05:098][590]LogConcert: Display: Synced activity '651' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.05:198][600]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.05:198][600]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.05:627][648]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.05:736][656]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.05:843][668]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.05:859][669]LogConcert: Display: Synced activity '652' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.05:859][669]LogConcert: Display: Synced activity '653' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.05:963][681]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.06:072][692]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.06:183][705]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.09:613][  4]LogConcert: Display: Synced activity '654' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.09:720][ 16]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.10:340][ 79]LogConcert: Display: Synced activity '655' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.10:340][ 79]LogConcert: Display: Synced activity '656' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.19:622][896]LogConcert: Display: Synced activity '657' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.21:901][142]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.21:927][145]LogConcert: Display: Synced activity '658' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.21:927][145]LogConcert: Display: Synced activity '659' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.22:689][228]LogConcert: Display: Synced activity '660' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.23:581][322]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.23:599][324]LogConcert: Display: Synced activity '661' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.23:600][324]LogConcert: Display: Synced activity '662' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.24:077][376]LogConcert: Display: Synced activity '663' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.28:273][831]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.18.28:291][833]LogConcert: Display: Synced activity '664' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.28:291][833]LogConcert: Display: Synced activity '665' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.29:291][942]LogConcert: Display: Synced activity '666' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 locked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.29:635][976]LogConcert: Display: Synced activity '667' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 modified BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.29:635][976]LogConcert: Display: Synced activity '668' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 unlocked BlockingVolume_UAID_D8BBC11CB5ED764101_1624949569.BrushComponent0 in /Game/1.
+[2022.10.19-15.18.29:733][987]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.19.10:462][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.19-15.19.10:467][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/1/B/LQ/UV4HEN6XKLM9W9EKRN2ZW8_Auto2
+[2022.10.19-15.19.10:467][879]LogSavePackage: Moving 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/UV4HEN6XKLM9W9EKRN2ZW8_Auto2C706EA494ED8525C86249EA32D32117C.tmp' to 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/Autosaves/Game/__ExternalActors__/1/B/LQ/UV4HEN6XKLM9W9EKRN2ZW8_Auto2.uasset'
+[2022.10.19-15.19.10:469][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/1/1/NE/UZQW6PK0RJKV26O85UZIWX_Auto2
+[2022.10.19-15.19.10:469][879]LogSavePackage: Moving 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/UZQW6PK0RJKV26O85UZIWX_Auto2CB63F9D74D7FE37C09B491B9E2FEE58E.tmp' to 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/Autosaves/Game/__ExternalActors__/1/1/NE/UZQW6PK0RJKV26O85UZIWX_Auto2.uasset'
+[2022.10.19-15.19.10:469][879]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/1' took 0.035
+[2022.10.19-15.19.10:469][879]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035

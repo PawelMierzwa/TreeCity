@@ -2428,3 +2428,119 @@ Recommended: 516.25
 [2022.10.19-14.56.46:800][246]LogConcert: Display: User 'gfzrm' (Endpoint: 5633726B4675F38B2AB33082DC4CE108) left Concert session 'kurcze pieczone (cooked chikens)' (Id: 53A53E164C3CE19526ECAFB07126E936, Owner: gfzrm).
 [2022.10.19-14.56.46:801][246]LogConcert: Display: Synced activity '608' produced by endpoint '5633726B4675F38B2AB33082DC4CE108': Danzig Coder left the session.
 [2022.10.19-14.56.47:133][247]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.01.17:321][838]LogConcertTakeRecorder: Display: Session Client Change: Danzig Coder Connected.
+[2022.10.19-15.01.17:322][838]LogConcert: Display: User 'gfzrm' (Endpoint: 678EBB1F45A9BC6DC270E39BACC50556) joined Concert session 'kurcze pieczone (cooked chikens)' (Id: 53A53E164C3CE19526ECAFB07126E936, Owner: gfzrm).
+[2022.10.19-15.01.17:322][838]LogConcert: Display: Synced activity '609' produced by endpoint '678EBB1F45A9BC6DC270E39BACC50556': Danzig Coder joined the session.
+[2022.10.19-15.01.48:551][ 14]LogConcert: Display: Synced activity '610' produced by endpoint '678EBB1F45A9BC6DC270E39BACC50556': Danzig Coder modified BlockingVolume_UAID_A85E45301447744101_1303381216 in /Game/1.
+[2022.10.19-15.01.48:553][ 14]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1303381216.BrushComponent0)
+[2022.10.19-15.01.48:553][ 14]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1379530217.BrushComponent0)
+[2022.10.19-15.01.48:553][ 14]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1383405218.BrushComponent0)
+[2022.10.19-15.01.48:553][ 14]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1398976219.BrushComponent0)
+[2022.10.19-15.01.48:554][ 14]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1431458220.BrushComponent0)
+[2022.10.19-15.01.48:554][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0'
+[2022.10.19-15.01.48:554][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0'
+[2022.10.19-15.01.48:554][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0'
+[2022.10.19-15.01.48:554][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0'
+[2022.10.19-15.01.48:554][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0'
+[2022.10.19-15.01.48:555][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0'
+[2022.10.19-15.01.48:555][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0'
+[2022.10.19-15.01.48:555][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0'
+[2022.10.19-15.01.48:555][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0'
+[2022.10.19-15.01.48:555][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0'
+[2022.10.19-15.01.48:555][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0'
+[2022.10.19-15.01.48:555][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0'
+[2022.10.19-15.01.48:555][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0'
+[2022.10.19-15.01.48:556][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0'
+[2022.10.19-15.01.48:556][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0'
+[2022.10.19-15.01.48:556][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0'
+[2022.10.19-15.01.48:556][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0'
+[2022.10.19-15.01.48:556][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0'
+[2022.10.19-15.01.48:556][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0'
+[2022.10.19-15.01.48:556][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0'
+[2022.10.19-15.01.48:556][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0'
+[2022.10.19-15.01.48:557][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0'
+[2022.10.19-15.01.48:557][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0'
+[2022.10.19-15.01.48:557][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0'
+[2022.10.19-15.01.48:557][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0'
+[2022.10.19-15.01.48:557][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0'
+[2022.10.19-15.01.48:557][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0'
+[2022.10.19-15.01.48:557][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0'
+[2022.10.19-15.01.48:557][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0'
+[2022.10.19-15.01.48:557][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0'
+[2022.10.19-15.01.48:558][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0'
+[2022.10.19-15.01.48:558][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0'
+[2022.10.19-15.01.48:558][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0'
+[2022.10.19-15.01.48:558][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0'
+[2022.10.19-15.01.48:558][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0'
+[2022.10.19-15.01.48:558][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0'
+[2022.10.19-15.01.48:558][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0'
+[2022.10.19-15.01.48:558][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0'
+[2022.10.19-15.01.48:559][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0'
+[2022.10.19-15.01.48:559][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0'
+[2022.10.19-15.01.48:559][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0'
+[2022.10.19-15.01.48:559][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0'
+[2022.10.19-15.01.48:559][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0'
+[2022.10.19-15.01.48:559][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0'
+[2022.10.19-15.01.48:559][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0'
+[2022.10.19-15.01.48:559][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0'
+[2022.10.19-15.01.48:560][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0'
+[2022.10.19-15.01.48:560][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0'
+[2022.10.19-15.01.48:560][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0'
+[2022.10.19-15.01.48:560][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0'
+[2022.10.19-15.01.48:560][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0'
+[2022.10.19-15.01.48:560][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0'
+[2022.10.19-15.01.48:560][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0'
+[2022.10.19-15.01.48:560][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0'
+[2022.10.19-15.01.48:561][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0'
+[2022.10.19-15.01.48:561][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0'
+[2022.10.19-15.01.48:561][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0'
+[2022.10.19-15.01.48:561][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0'
+[2022.10.19-15.01.48:561][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0'
+[2022.10.19-15.01.48:561][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0'
+[2022.10.19-15.01.48:561][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0'
+[2022.10.19-15.01.48:561][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0'
+[2022.10.19-15.01.48:562][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0'
+[2022.10.19-15.01.48:562][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0'
+[2022.10.19-15.01.48:562][ 14]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.DesktopPresence_C_0'
+[2022.10.19-15.01.58:287][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.19-15.01.58:291][ 42]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/1/5/GX/110NG0HBPVV1G1QNT3ARQI_Auto1
+[2022.10.19-15.01.58:291][ 42]LogSavePackage: Moving 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/110NG0HBPVV1G1QNT3ARQI_Auto12798667F427D0B8D393F6D9E2776D7DE.tmp' to 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/Autosaves/Game/__ExternalActors__/1/5/GX/110NG0HBPVV1G1QNT3ARQI_Auto1.uasset'
+[2022.10.19-15.01.58:293][ 42]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/1/7/SB/FMJKQR2NGPNCU9SLHUVODQ_Auto1
+[2022.10.19-15.01.58:293][ 42]LogSavePackage: Moving 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/FMJKQR2NGPNCU9SLHUVODQ_Auto170C45537455F67CD811E49939F444174.tmp' to 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/Autosaves/Game/__ExternalActors__/1/7/SB/FMJKQR2NGPNCU9SLHUVODQ_Auto1.uasset'
+[2022.10.19-15.01.58:294][ 42]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/1/1/0F/3DUKVYNXOC7TBTQW9V6MHF_Auto1
+[2022.10.19-15.01.58:294][ 42]LogSavePackage: Moving 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/3DUKVYNXOC7TBTQW9V6MHF_Auto17CF06B5E44163D0EFD8E9CA121A2DB87.tmp' to 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/Autosaves/Game/__ExternalActors__/1/1/0F/3DUKVYNXOC7TBTQW9V6MHF_Auto1.uasset'
+[2022.10.19-15.01.58:296][ 42]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/1/0/BL/B4HWRVSGJM9WB7ALFRS64D_Auto1
+[2022.10.19-15.01.58:296][ 42]LogSavePackage: Moving 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/B4HWRVSGJM9WB7ALFRS64D_Auto1989D6DAC44319DEC3D51EB9D829F3E68.tmp' to 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/Autosaves/Game/__ExternalActors__/1/0/BL/B4HWRVSGJM9WB7ALFRS64D_Auto1.uasset'
+[2022.10.19-15.01.58:298][ 42]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/1/2/62/CV7ETZH0IJIV6509Q4996K_Auto1
+[2022.10.19-15.01.58:298][ 42]LogSavePackage: Moving 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/CV7ETZH0IJIV6509Q4996K_Auto1B97942B04EF55A3BE2C5EFB48223740B.tmp' to 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/Autosaves/Game/__ExternalActors__/1/2/62/CV7ETZH0IJIV6509Q4996K_Auto1.uasset'
+[2022.10.19-15.01.58:300][ 42]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/1/7/LP/IJSQLNRGH7HFG55AAIS94Y_Auto1
+[2022.10.19-15.01.58:300][ 42]LogSavePackage: Moving 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/IJSQLNRGH7HFG55AAIS94Y_Auto1A984048B483534C52EB6F397012ACAEB.tmp' to 'C:/Users/is-79/OneDrive/Dokumenty/GitHub/TreeCity/Testing/Saved/Autosaves/Game/__ExternalActors__/1/7/LP/IJSQLNRGH7HFG55AAIS94Y_Auto1.uasset'
+[2022.10.19-15.01.58:301][ 42]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/1' took 0.021
+[2022.10.19-15.01.58:301][ 42]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2022.10.19-15.02.37:075][388]LogCEFBrowser: CEF GPU acceleration enabled
+[2022.10.19-15.03.01:533][178]LogConcert: Display: Synced activity '611' produced by endpoint '678EBB1F45A9BC6DC270E39BACC50556': Danzig Coder discarded changes to package /Game/UEDPIE_0_1.
+[2022.10.19-15.03.01:606][185]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.03.05:307][472]LogConcert: Display: Synced activity '612' produced by endpoint '678EBB1F45A9BC6DC270E39BACC50556': Danzig Coder saved package /Game/__ExternalActors__/1/7/SB/FMJKQR2NGPNCU9SLHUVODQ.
+[2022.10.19-15.03.05:308][472]LogConcert: Display: Synced activity '613' produced by endpoint '678EBB1F45A9BC6DC270E39BACC50556': Danzig Coder saved package /Game/__ExternalActors__/1/7/LP/IJSQLNRGH7HFG55AAIS94Y.
+[2022.10.19-15.03.05:309][472]LogConcert: Display: Synced activity '614' produced by endpoint '678EBB1F45A9BC6DC270E39BACC50556': Danzig Coder saved package /Game/__ExternalActors__/1/2/62/CV7ETZH0IJIV6509Q4996K.
+[2022.10.19-15.03.05:310][472]LogConcert: Display: Synced activity '615' produced by endpoint '678EBB1F45A9BC6DC270E39BACC50556': Danzig Coder saved package /Game/__ExternalActors__/1/0/BL/B4HWRVSGJM9WB7ALFRS64D.
+[2022.10.19-15.03.05:318][472]LogConcert: Display: Synced activity '616' produced by endpoint '678EBB1F45A9BC6DC270E39BACC50556': Danzig Coder saved package /Game/__ExternalActors__/1/1/0F/3DUKVYNXOC7TBTQW9V6MHF.
+[2022.10.19-15.03.05:321][472]LogConcert: Display: Synced activity '617' produced by endpoint '678EBB1F45A9BC6DC270E39BACC50556': Danzig Coder saved package /Game/__ExternalActors__/1/5/GX/110NG0HBPVV1G1QNT3ARQI.
+[2022.10.19-15.03.05:322][472]LogConcert: Display: Synced activity '618' produced by endpoint '678EBB1F45A9BC6DC270E39BACC50556': Danzig Coder saved package /Game/__ExternalObjects__/1/E/B0/1I61DOUUG8W7Z49ZLVXL9G.
+[2022.10.19-15.03.05:336][472]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1431458220.BrushComponent0)
+[2022.10.19-15.03.05:336][472]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1303381216.BrushComponent0)
+[2022.10.19-15.03.05:336][472]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1379530217.BrushComponent0)
+[2022.10.19-15.03.05:336][472]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1383405218.BrushComponent0)
+[2022.10.19-15.03.05:336][472]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_A85E45301447744101_1398976219.BrushComponent0)
+[2022.10.19-15.03.05:336][472]LogUObjectGlobals: Reloading 6 Package(s):
+	Asset Name: /Game/__ExternalActors__/1/7/SB/FMJKQR2NGPNCU9SLHUVODQ
+	Asset Name: /Game/__ExternalActors__/1/7/LP/IJSQLNRGH7HFG55AAIS94Y
+	Asset Name: /Game/__ExternalActors__/1/2/62/CV7ETZH0IJIV6509Q4996K
+	Asset Name: /Game/__ExternalActors__/1/0/BL/B4HWRVSGJM9WB7ALFRS64D
+	Asset Name: /Game/__ExternalActors__/1/1/0F/3DUKVYNXOC7TBTQW9V6MHF
+	Asset Name: /Game/__ExternalActors__/1/5/GX/110NG0HBPVV1G1QNT3ARQI
+[2022.10.19-15.03.05:344][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.19-15.03.05:519][472]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.10.19-15.03.05:519][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.19-15.03.05:672][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.19-15.03.05:825][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms

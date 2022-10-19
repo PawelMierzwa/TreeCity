@@ -2362,3 +2362,22 @@ Would you like to edit the code now?
 [2022.10.19-15.05.45:926][988]LogSlate: Window 'Add C++ Class' being destroyed
 [2022.10.19-15.05.48:064][992]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
 [2022.10.19-15.05.48:087][993]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2022.10.19-15.15.44:427][749]LogConcert: Display: Synced activity '619' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 added package /Game/__ExternalActors__/1/A/67/9FGT5E5F1Q6A8C8NUW5FGI.
+[2022.10.19-15.15.44:446][749]LogConcert: Display: Synced activity '620' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 created BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567 in /Game/1.
+[2022.10.19-15.15.44:488][749]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567.Model_1'
+[2022.10.19-15.15.44:488][749]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567.BrushComponent0.BodySetup_0'
+[2022.10.19-15.15.44:488][749]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.DesktopPresence_C_2'
+[2022.10.19-15.15.49:130][763]LogConcert: Display: Synced activity '621' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 deleted BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567 in /Game/1.
+[2022.10.19-15.15.49:131][763]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: BrushComponent /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567.BrushComponent0)
+[2022.10.19-15.15.49:133][763]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.DesktopPresence_C_2'
+[2022.10.19-15.15.49:146][763]LogWorldPartition: Warning: Actor /Game/1.1:PersistentLevel.BlockingVolume_UAID_D8BBC11CB5ED764101_1506924567 is unreachable without properly detaching object /Game/__ExternalActors__/1/A/67/9FGT5E5F1Q6A8C8NUW5FGI.PackageMetaData in its package
+[2022.10.19-15.15.49:470][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.19-15.16.00:867][798]LogConcert: Display: Synced activity '622' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 added package /Game/__ExternalActors__/1/1/IT/8E4DHUXAPX9ZJM9A55S89L.
+[2022.10.19-15.16.01:205][799]LogConcert: Display: Synced activity '623' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 created CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568 in /Game/1.
+[2022.10.19-15.16.01:208][799]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568.Model_1'
+[2022.10.19-15.16.01:208][799]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568.BrushComponent0.BodySetup_0'
+[2022.10.19-15.16.01:209][799]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.DesktopPresence_C_2'
+[2022.10.19-15.16.02:542][803]LogConcert: Display: Synced activity '624' produced by endpoint 'F00B94A448641843E1200B945EE32831': Monke420 deleted CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568 in /Game/1.
+[2022.10.19-15.16.02:544][803]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/1.1:PersistentLevel.DesktopPresence_C_2'
+[2022.10.19-15.16.02:557][803]LogWorldPartition: Warning: Actor /Game/1.1:PersistentLevel.CameraBlockingVolume_UAID_D8BBC11CB5ED764101_1523593568 is unreachable without properly detaching object /Game/__ExternalActors__/1/1/IT/8E4DHUXAPX9ZJM9A55S89L.PackageMetaData in its package
+[2022.10.19-15.16.02:884][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms

@@ -26,8 +26,8 @@ void ATestCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 
 	PlayerInputComponent->BindAxis(TEXT("ForwardBackward"), this, &ATestCharacter::ForwardBackward);
 	PlayerInputComponent->BindAxis(TEXT("ForwardBackward"), this, &ATestCharacter::LeftRight);
-	PlayerInputComponent->BindAxis(TEXT("LookUp"), this, &ATestCharacter::LookUp);
-	PlayerInputComponent->BindAxis(TEXT("LookDown"), this, &ATestCharacter::LookDown);
+	PlayerInputComponent->BindAxis(TEXT("LookUp"), this, &ATestCharacter::LookUpDown);
+	PlayerInputComponent->BindAxis(TEXT("LookDown"), this, &ATestCharacter::LookSide);
 
 }
 
@@ -38,8 +38,8 @@ void ATestCharacter::LeftRight(float AxisValue) {
 	AddMovementInput(GetActorRightVector() * AxisValue);
 }
 void ATestCharacter::LookUpDown(float AxisValue) {
-	AddMovementInput(GetActorForwardVector() * AxisValue);
+	AddControllerPitchInput(AxisValue);
 }
 void ATestCharacter::LookSide(float AxisValue) {
-	AddMovementInput(GetActorForwardVector() * AxisValue);
+	AddControllerYawInput(AxisValue);
 }
